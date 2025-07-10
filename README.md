@@ -91,18 +91,6 @@ Developed with **Nowaar** for the Ministry of Sports' Mahd Academy.
 
 ---
 
-## 👥 Team
-
-| Name             | Role                             | Highlights |
-|------------------|----------------------------------|------------|
-| **Adel Alharbi** | CTO & Digital Policy Expert      | Ex-Tawakkalna, national tech strategist |
-| **Khalid Sonbul**| Head of Projects & Product Vision| 12+ years building creative/tech ventures |
-| **Alpha Bhatti** | Technology Consultant            | 22+ years in tech, robotics, outreach |
-| **Altayeb Karrar**| Infrastructure Lead             | Cloud, IoT, and cybersecurity expert |
-| **Fahad Alessa** | Systems Engineer                 | Modular software, IoT, healthcare systems |
-
----
-
 ## 📫 Contact
 
 For collaboration, product demos, or inquiries, please reach out to the Maru team.
